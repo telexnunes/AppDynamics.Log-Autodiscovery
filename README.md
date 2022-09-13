@@ -9,4 +9,5 @@ Extension no Machine Agent:
 		d Configurar na Source Rule o template do arquivo conforme o Servidor de Aplicação identificado (Tomcat, etc.).
 	3 Antes de criar a regra é necessário verificar se ela já existe, para não criar regra duplicada.
 	4 A extensão será responsável apenas para encontrar os arquivos e configurar a Source Rule, ainda será necessário instalar o agente de Log Analytics.
- 
+	
+![image](https://user-images.githubusercontent.com/113452445/189957356-863afaf1-de43-409f-a75a-ff0d52e6f0fe.png)
