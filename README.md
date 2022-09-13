@@ -1,4 +1,6 @@
-# AppDynamics.Log-Autodiscovery - Extension no Machine Agent
+# AppDynamics.Log-Autodiscovery
+
+#Extension no Machine Agent
  
 #1 - Será executada a cada 5 minutos.
 
