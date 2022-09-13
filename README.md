@@ -1,12 +1,10 @@
-# AppDynamics.Log-Autodiscovery
-
-##Extension no Machine Agent:
+# AppDynamics.Log-Autodiscovery - Extension no Machine Agent
  
-##1
+#1
 
 Será executada a cada 5 minutos.
 
-##2
+#2
 
 Critério para identificar o arquivo de log e seu caminho automaticamente:
 
@@ -15,11 +13,11 @@ Critério para identificar o arquivo de log e seu caminho automaticamente:
 * Chamar as API's para criar uma Source Rule (simulando a navegação do usuário). Navegar na UI com F12 do Browser apertado para verificar quais APIs são chamadas, elas não são documentadas.
 * Configurar na Source Rule o template do arquivo conforme o Servidor de Aplicação identificado (Tomcat, etc.).
 	
-##3
+#3
 
 Antes de criar a regra é necessário verificar se ela já existe, para não criar regra duplicada.
 
-##4
+#4
 
 A extensão será responsável apenas para encontrar os arquivos e configurar a Source Rule, ainda será necessário instalar o agente de Log Analytics.
 	
